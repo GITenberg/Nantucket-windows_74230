@@ -1,0 +1,33 @@
+_repo: Nantucket-windows_74230
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Babcock, Edwina Stanton
+    birthdate: 1875
+    deathdate: 1965
+    gutenberg_agent_id: '44576'
+    url: http://www.gutenberg.org/2009/agents/44576
+description: ''
+gutenberg_issued: '2024-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74230'
+  lccn: '25000377'
+language: en
+pgterms:marc904: https://archive.org/details/nantucketwindows00babc/page/n3/mode/2up
+pgterms:marc905: 20230713160710babcock
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Chuck Greif & The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNantucket Island :$bThe Inquirer and Mirror Press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcsh 'Nantucket Island (Mass.) -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Nantucket windows
+url: http://www.gutenberg.org/ebooks/74230
